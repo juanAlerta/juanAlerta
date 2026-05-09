@@ -1,6 +1,6 @@
 # Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Juan, nice to meet you
 
-As a Level 2 Cybersecurity Analyst in a SOC, I have spent the last two years honing my skills in threat detection, incident response, and digital forensics. My work has involved leveraging advanced security tools and techniques to protect sensitive information.  
+As a Level 2 Cybersecurity Analyst in a SOC, I have spent the last years honing my skills in threat detection, incident response, and digital forensics. My work has involved leveraging advanced security tools and techniques to protect sensitive information.  
 
 ### More about me:
   
